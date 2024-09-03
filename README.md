@@ -1,2 +1,2 @@
-# goit-murkup-hw-01
+# got-murkup-hw-01
 First project
